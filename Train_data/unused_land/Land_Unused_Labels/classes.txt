@@ -1,0 +1,11 @@
+Person
+Cultivation
+Forest
+House
+Uncultivated
+Road
+Animal
+River
+Lake
+PlayGround
+Tree
